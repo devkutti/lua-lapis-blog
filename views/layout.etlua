@@ -1,0 +1,10 @@
+<!DOCTYPE HTML>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title><%= page_title or "Página Inicial" %></title>
+</head>
+<body>
+    <h1>Greetings</h1>
+    <% content_for("inner") %>
+</body>
