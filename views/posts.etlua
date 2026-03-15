@@ -1,0 +1,13 @@
+<main class="container">
+    <h1>Todos os Posts</h1>
+
+    <article>
+    <h2><a href="/posts/1">Primeiro Post</a></h2>
+    <p>Um exemplo de post.</p>
+    </article>
+
+    <article>
+    <h2><a href="/posts/2">Segundo Post</a></h2>
+    <p>Outro exemplo de post.</p>
+    </article>
+</main>

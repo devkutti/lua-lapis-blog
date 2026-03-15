@@ -1,0 +1,7 @@
+<main class="container">
+    <h1>Post <%= id %></h1>
+
+    <p>Este é o conteúdo do post <%= id %>.</p>
+
+    <a href="/posts">Voltar</a>
+</main>

@@ -1,3 +1,10 @@
-<main class="container">
-      <h3>Hello world!</h3>
+<main class="container pg_inicial">
+      <h1>Meu Blog em Lapis</h1>
+
+      <p>O Blog foi criado com a Linguagem de Programação Lua e seu Framework Lapis, para fins de estudo de Programação Web.</p>
+      
+      <article>
+            <h2>Primeiro Post</h2>
+            <p>Este é um exemplo.</p>
+      </article>
 </main>
